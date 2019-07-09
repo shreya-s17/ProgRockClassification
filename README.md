@@ -19,7 +19,7 @@ One dimensionality reduction technique investigated was Principal Component Anal
 ### Fully Connected Neural Network
 The validation set accuracy was 72% and the test set accuracy was 55% (see figures 5and 6 below).  In both testing cases, the network performed well in deciding whether a songwas progressive rock but had difficulty labeling songs as a non-progressive rock. Confusion matrix results.
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/FCNN-confusionMatrix.png)
 Figure 5:  Validation set confusion matrix of the model predictions after training on the fulltraining data set.
 Figure 6: Test set confusion matrix of the model predictions after training on the full trainingdata set with validation set stopping criteria. 
 ### Principal Component Analysis
