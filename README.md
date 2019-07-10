@@ -1,8 +1,8 @@
 # Progressive rock vs. everything else
+The problem statement requires a machine learning model for classification between the progressive rock and all the other genres of music. The dataset comprises of 73 songs of varying length which have been hand-picked as progressive rock and 303 songs which are known to be non-progressive rock. This is a one-vs-all classification problem which has been modeled using a fully connected Neural Network. The machine learning model described below and their results are a part of the report submitted for the course CAP 6610- Machine Learning. 
 
 ## Layout and dependencies (as needed)
 
-`data/`: Dataset creation scripts
 - pytorch: https://pytorch.org/get-started/locally/
 - librosa: `conda install -c conda-forge librosa`
 
